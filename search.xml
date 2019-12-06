@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>测试页面</title>
+      <link href="/2019/12/07/index/"/>
+      <url>/2019/12/07/index/</url>
+      
+        <content type="html"><![CDATA[<p>点点滴滴</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2019/12/07/hello-world/"/>
       <url>/2019/12/07/hello-world/</url>
